@@ -15,3 +15,4 @@ if __name__ == "__main__":
         my_list.append(temp)
 
     print("Average of the list is ", get_list_avg(my_list, l))
+    

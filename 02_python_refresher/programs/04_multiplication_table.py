@@ -6,3 +6,4 @@ def print_multiplication_table(num):
 if __name__ == "__main__":
     num = int(input("Enter the number: "))
     print_multiplication_table(num)
+    

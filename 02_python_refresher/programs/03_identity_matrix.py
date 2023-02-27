@@ -20,6 +20,7 @@ def get_identity_matrix(n):
 if __name__ == "__main__":
     matrix_size = int(input("Enter the size of the matrix: "))
     get_identity_matrix(matrix_size)
+    
 
 
             

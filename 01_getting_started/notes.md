@@ -115,5 +115,3 @@ plt.ylabel("Y Axis")
 plt.title("Linear regression analysis")
 plt.legend()
 ```
-
-

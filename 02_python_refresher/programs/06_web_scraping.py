@@ -19,3 +19,4 @@ links = soup.find_all('a', href=True)
 
 for i in links:
     print(f"{i.text} ==> {i['href']}")
+    

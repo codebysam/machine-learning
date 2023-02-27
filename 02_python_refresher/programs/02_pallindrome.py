@@ -17,3 +17,4 @@ if __name__ == "__main__":
         print("Pallindrome")
     else:
         print("Not a pallindrome")
+        

@@ -11,3 +11,4 @@ if __name__ == "__main__":
         my_list.append(temp)
 
     print("Second largest of the list is ", get_second_largest(my_list, l))
+    

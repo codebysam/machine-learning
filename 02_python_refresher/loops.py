@@ -21,3 +21,4 @@ print("List items with their indexes")
 
 for i, _name in enumerate(names_list):
     print(f"{i} - {_name}") 
+    
